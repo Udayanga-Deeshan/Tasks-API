@@ -1,0 +1,17 @@
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.DataAccess.deps.json
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.DataAccess.runtimeconfig.json
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.DataAccess.dll
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.DataAccess.pdb
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.Models.dll
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.Models.pdb
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.csproj.AssemblyReference.cache
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.AssemblyInfoInputs.cache
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.AssemblyInfo.cs
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.csproj.CoreCompileInputs.cache
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.csproj.CopyComplete
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.dll
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\refint\TaskAPI.DataAccess.dll
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.pdb
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.genruntimeconfig.cache
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.DataAccess\obj\Debug\net6.0\ref\TaskAPI.DataAccess.dll

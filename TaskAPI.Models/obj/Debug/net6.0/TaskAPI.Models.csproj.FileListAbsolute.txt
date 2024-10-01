@@ -1,0 +1,12 @@
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\bin\Debug\net6.0\TaskAPI.Models.deps.json
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\bin\Debug\net6.0\TaskAPI.Models.dll
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\bin\Debug\net6.0\TaskAPI.Models.pdb
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.csproj.AssemblyReference.cache
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.AssemblyInfoInputs.cache
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.AssemblyInfo.cs
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.csproj.CoreCompileInputs.cache
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.dll
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\refint\TaskAPI.Models.dll
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.pdb
+D:\DOTNET Core\Dotnet-Learning\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\ref\TaskAPI.Models.dll
