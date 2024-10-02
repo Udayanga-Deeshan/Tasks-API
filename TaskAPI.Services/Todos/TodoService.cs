@@ -1,8 +1,8 @@
 ﻿using TaskAPI.Models;
 
-namespace TaskAPI.Services
+namespace TaskAPI.Services.Todos
 {
-    public class TodoService :ITodoRepository
+    public class TodoService : ITodoRepository
     {
         public List<Todo> AllTodos()
         {
