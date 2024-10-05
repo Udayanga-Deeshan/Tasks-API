@@ -1,25 +1,29 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using TaskAPI.Services.Models;
 using TaskAPI.Services.Todos;
 
 namespace TaskAPI.Controllers
 {
-    [Route("api/todos")]
+    [Route("api/authors/{authorId}/todos")]
     [ApiController]
     public class TodosController : ControllerBase
     {
         private readonly ITodoRepository _todoService;
+        private readonly IMapper _mapper;
 
-        public TodosController(ITodoRepository repository) {
+        public TodosController(ITodoRepository repository, IMapper mapper) {
             _todoService = repository;
+            _mapper = mapper;
         }
         [HttpGet("{id?}")]
-        public IActionResult GetTodos(int ?id)
+        public ActionResult<ICollection<TodoDto>> GetTodos(int authorId)
         {
-            var mytodos = _todoService.AllTodos();
-            if (id is null) return Ok(mytodos);
-            mytodos = mytodos.Where(t=>t.Id ==id ).ToList();
-            return Ok(mytodos);
+            var mytodos = _todoService.AllTodos( authorId);
+
+            var mappedTodos = _mapper.Map<ICollection<TodoDto>>(mytodos);
+            return Ok(mappedTodos);
         }
 
        

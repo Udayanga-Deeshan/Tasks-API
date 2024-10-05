@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wzJyWKb2L6eSAAXoPzCbqjQ3gFVGXJPBK2N6nByYvIbV5u9Nbo6z/ZckfekKihfwwWI2+BvhTMWk4TeldTdM+w==",
+  "dgSpecHash": "UUN2ZfUVte69fCgUgJ3p+RT4/ytwyNJ/7Pug4SwRWtL5skHzbTLvyrAjqd9rgKwQrpJfAoYAaZDRzY7niGt1sQ==",
   "success": true,
   "projectFilePath": "D:\\DOTNET Core\\Dotnet-Learning\\TaskAPI\\TaskAPI\\TaskAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
